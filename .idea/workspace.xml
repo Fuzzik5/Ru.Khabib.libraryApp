@@ -4,37 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfbbde28-d572-466d-a376-97d5d370b7b9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/khabib/library/LibraryApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/khabib/library/controllers/BookController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/khabib/library/controllers/PeopleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/khabib/library/dao/BookDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/khabib/library/dao/PersonDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/khabib/library/models/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/khabib/library/models/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/khabib/library/repositories/BooksRepositories.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/khabib/library/repositories/PeopleRepositories.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/khabib/library/services/BooksService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/khabib/library/services/PeopleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/khabib/library/util/PersonValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/books/edit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/books/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/books/new.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/books/search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/books/show.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/people/edit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/people/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/people/new.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/people/show.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/khabib/library/LibraryApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-    </list>
+    <list default="true" id="dfbbde28-d572-466d-a376-97d5d370b7b9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +33,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Habib/Desktop/KhabibAliev-libraryApp-main",
+    "last_opened_file_path": "C:/Users/Habib/Desktop/LibrarySecurityApplication-main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -102,6 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1697285716358</updated>
       <workItem from="1697285717365" duration="1544000" />
+      <workItem from="1697293998652" duration="18000" />
     </task>
     <servers />
   </component>
